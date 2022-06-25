@@ -8,6 +8,7 @@ body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
   height: 200%;
+  box-sizing: border-box;
 }
 
 code {
