@@ -4,18 +4,27 @@ header{
   background: rgba(16, 16, 16, .1);
   backdrop-filter: blur(10px);
   position: fixed;
+  top: 0;
   width: 100%;
+  padding: 1em;
+  box-sizing: border-box;
 }
 button.menu{
-  background: url(../../../public/icons/menu.svg) no-repeat top left;
   background-size: contain;
   cursor: pointer;
   display: inline-block;
   height: 48px;
   width: 48px;
   border: none;
-  color: blue;
   fill: currentColor;
+}
+
+.open{
+  background: url(../../../public/icons/menu.svg) no-repeat top left;
+}
+
+p{
+  color: white;
 }
 
 svg {

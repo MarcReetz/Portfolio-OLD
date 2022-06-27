@@ -1,3 +1,7 @@
 {
-  "intro_text": "Hallo ich bin ein software entwickler"
+  "intro_text": "Hallo ich bin ein software entwickler",
+  "about": "Über",
+  "skills": "Fähikeiten",
+  "work": "Arbeiten",
+  "contact": "Kontakt"
 }
